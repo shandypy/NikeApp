@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <filter id="Rectangle_1" x="89" y="375" width="199" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_3">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_3" data-name="iPhone X/XS/11 Pro – 3" clip-path="url(#clip-iPhone_X_XS_11_Pro_3)">
+    <rect width="375" height="812" fill="#f2f2f2"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(18.5)">
+      <line id="Line_1" data-name="Line 1" x2="18.5" transform="translate(17.5 18.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="9" transform="translate(17.5 22.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="18.5" transform="translate(17.5 26.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="nike" transform="translate(294.067 -153.002)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0 168.002)">
+        <path id="Path_1" data-name="Path 1" d="M24.691,172.961l-2.729.717-7.573,1.982c-2.674.662-5.014,1.543-7.268.772C4.057,175.108,4.112,171.665,6.4,168c-4.039,3.333-11.307,13.992-1.477,15.069a13.218,13.218,0,0,0,5.9-1.293l11.139-4.572,21.971-8.984Z" transform="translate(0 -168.002)"/>
+      </g>
+    </g>
+    <text id="Sign_In_-_Sign_Up_" data-name="Sign In - Sign Up  " transform="translate(188 30)" font-size="14" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="-61.418" y="0" xml:space="preserve">Sign In - Sign Up  </tspan></text>
+    <g id="Group_20" data-name="Group 20" transform="translate(0.5 69)">
+      <line id="Line_6" data-name="Line 6" x2="301.5" transform="translate(36 187)" fill="none" stroke="#000" stroke-width="1" opacity="0.4"/>
+      <text id="Full_Name" data-name="Full Name" transform="translate(184.825 181)" font-size="19" font-family="Futura-Bold, Futura" font-weight="700" opacity="0.4"><tspan x="-43.481" y="0">Full Name</tspan></text>
+      <line id="Line_7" data-name="Line 7" x2="301.5" transform="translate(36 238)" fill="none" stroke="#000" stroke-width="1" opacity="0.4"/>
+      <text id="Email" transform="translate(186.788 232)" font-size="19" font-family="Futura-Bold, Futura" font-weight="700" opacity="0.4"><tspan x="-23.199" y="0">Email</tspan></text>
+      <line id="Line_8" data-name="Line 8" x2="301.5" transform="translate(36 289)" fill="none" stroke="#000" stroke-width="1" opacity="0.4"/>
+      <text id="Password" transform="translate(185.821 283)" font-size="19" font-family="Futura-Bold, Futura" font-weight="700" opacity="0.4"><tspan x="-42.018" y="0">Password</tspan></text>
+    </g>
+    <g id="Group_21" data-name="Group 21" transform="translate(-29 314)">
+      <g transform="matrix(1, 0, 0, 1, 29, -314)" filter="url(#Rectangle_1)">
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" width="175" height="35" transform="translate(100 386)" fill="#ddd"/>
+      </g>
+      <text id="Sign_Up" data-name="Sign Up" transform="translate(217 95)" font-size="16" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="-29.248" y="0">Sign Up</tspan></text>
+    </g>
+    <text id="Already_Have_Account_" data-name="Already Have Account ?" transform="translate(157 444)" font-size="10" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="-57.14" y="0">Already Have Account ?</tspan></text>
+    <text id="Sign_In" data-name="Sign In" transform="translate(259 444)" font-size="10" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="-16.285" y="0">Sign In</tspan></text>
+    <text id="Sign_Up-2" data-name="Sign Up" transform="translate(188 142)" font-size="26" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="-47.528" y="0">Sign Up</tspan></text>
+    <g id="Group_22" data-name="Group 22" transform="translate(0.492 8)" opacity="0.4">
+      <line id="Line_9" data-name="Line 9" x2="23.017" y2="23.017" transform="translate(175.5 728.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_10" data-name="Line 10" y1="23.017" x2="23.017" transform="translate(175.5 728.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Group_24" data-name="Group 24" transform="translate(0.492 8)" opacity="0.4">
+      <line id="Line_9-2" data-name="Line 9" x2="23.017" y2="23.017" transform="translate(175.5 728.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_10-2" data-name="Line 10" y1="23.017" x2="23.017" transform="translate(175.5 728.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
